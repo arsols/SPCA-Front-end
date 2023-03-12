@@ -1,0 +1,10 @@
+.bnbbox{
+    border: 1px solid;
+    border-color: white;
+    border-radius: 10px;
+}
+.connectWallet{
+    background-color: rgb(226, 43, 186);
+    color: white;
+    font-size: large;
+}
